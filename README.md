@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Anas Ali Siddiqui</h1>
-<h3 align="center">Computer Science Undergraduate | Data Science Enthusiast</h3>
-
+<h1 align="center"> Hi👋, I'm Anas Ali Siddiqui</h1>
+<h2 align="center">Computer Science Undergraduate | Data Science Enthusiast</h2>
+<h4 align="center"> Thanks for visiting my GitHub profile, it's great to meet you here!</h4>
 <p align="center">
   <em>
      👀This is Anas Ali Siddiqui, a <b>3rd year</b> undergraduate from <a href="https://iqra.edu.pk/"> <b>Iqra University Karachi</b> Karachi, PK</a>. <br>
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
-<h2 align="left">My Expertise</h2>
+<h2 align="left">💻My Expertise</h2>
 <p align="center">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
@@ -34,12 +34,13 @@ You can click the Preview link to take a look at your changes.
 <code><img height="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
 </p>
 
-<h2 align="left">My Stats</h2>
+<h2 align="left">📈 My Stats</h2>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali1671&show_icons=true&theme=radical)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&theme=radical)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout)](https://github.com/anasali1671/github-readme-stats)
+  
 
 <div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
@@ -51,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   If any queries feel free to contact at <b>(+92)-(316)-2242863</b> or email at <b>anasali1671@gmail.com</b>.
 </p>
 
-<h2 align="left">Social Profiles</h2>
+<h2 align="left">🤝Social Profiles</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anasali1671/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
