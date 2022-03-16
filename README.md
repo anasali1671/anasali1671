@@ -20,6 +20,7 @@
 anasali1671/anasali1671 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 <h2 align="center">My Expertise</h2>
 <p align="center">
@@ -32,11 +33,18 @@ You can click the Preview link to take a look at your changes.
 <code><img height="50" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
 </p>
- 
- 
+
+## My Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali1671&show_icons=true&theme=radical)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&theme=radical)  
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 <h2 align="center">📫 Feel Free To Contact</h2>
 <br>
 <p align="center">
   If any queries feel free to contact at <b>(+92)-(316)-2242863</b> or email at <b>anasali1671@gmail.com</b>.
 </p>
 
+## Social Profiles
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anasali1671/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anasali2001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anasali1671)  
