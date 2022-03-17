@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
 </p>
