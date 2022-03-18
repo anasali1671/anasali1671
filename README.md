@@ -37,17 +37,12 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">📈 My Stats</h2>
 
-<p align="right">
-<img align="right" alt="Anas Ali Siddiqui's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout=compact&theme=radical&hide_border=false" />
-</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali1671&show_icons=true&theme=radical)  
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=anasali1671&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&theme=radical) 
-
-<!-- <div align="right"> -->
+<div align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
-<!-- </div> -->
+</div>
 
 
 
