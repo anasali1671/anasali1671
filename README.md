@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 <h2 align="left">💻My Expertise</h2>
-<p align="center">
+<p align="left">
 <code><img height="70" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
@@ -40,7 +40,6 @@ You can click the Preview link to take a look at your changes.
 <code><img height="70" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
 <code><img height="70" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-
 </p>
 
 <h2 align="left">📈 My Stats</h2>
