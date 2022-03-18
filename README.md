@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 <h2 align="left">💻My Expertise</h2>
-<p align="centre">
+<p align="center">
 <code><img height="70" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
@@ -46,10 +46,9 @@ You can click the Preview link to take a look at your changes.
 
 <a href="#"><img height="120px" src="https://github-readme-stats.vercel.app/api?username=anasali1671&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<div align="right">
+<div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
 </div>
-
 
 
 <h2 align="left">📫 Feel Free To Contact</h2>
