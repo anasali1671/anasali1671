@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center"> Hi👋, I'm Anas Ali Siddiqui</h1>
 <h2 align="center">Computer Science Undergraduate | Data Science Enthusiast</h2>
 <h4 align="center"> Thanks for visiting my GitHub profile, it's great to meet you here!</h4>
@@ -41,14 +38,18 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">📈 My Stats</h2>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali1671&show_icons=true&theme=radical)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout)](https://github.com/anasali1671/github-readme-stats)
-  
 
-<div align="left">
+<img align="right" alt="Anas Ali Siddiqui's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout=compact&theme=radical&hide_border=false" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali1671&show_icons=true&theme=radical)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&theme=radical) 
+
+<!-- <div align="right"> -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
-</div>
+<!-- </div> -->
+
+
 
 <h2 align="left">📫 Feel Free To Contact</h2>
 <br>
