@@ -37,7 +37,9 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">📈 My Stats</h2>
 
+<p align="right">
 <img align="right" alt="Anas Ali Siddiqui's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout=compact&theme=radical&hide_border=false" />
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasali1671&show_icons=true&theme=radical)  
 
