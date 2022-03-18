@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
 <h1 align="center"> Hi👋, I'm Anas Ali Siddiqui</h1>
 <h2 align="center">Computer Science Undergraduate | Data Science Enthusiast</h2>
 <h4 align="center"> Thanks for visiting my GitHub profile, it's great to meet you here!</h4>
@@ -28,11 +31,16 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <code><img height="80" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 <code><img height="80" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="80" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<code><img height="80" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+<code><img height="80" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
 <code><img height="80" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="80" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
 <code><img height="80" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="80" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
 <code><img height="80" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
+<code><img height="80" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+
 </p>
 
 <h2 align="left">📈 My Stats</h2>
