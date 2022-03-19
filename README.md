@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <a href="https://linkedin.com/in/anasali1671"><img src="https://img.shields.io/badge/-@anasali1671-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/anasali1671"><img src="https://img.shields.io/badge/-@anasali1671-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
-<a href="mailto:anasali1671@gmail.com"><img src="https://img.shields.io/badge/-anasali1671@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:anasali1671@gmail.com"><img src="https://img.shields.io/badge/-@anasali1671@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/iamanas0316"><img src="https://img.shields.io/badge/-@iamanas0316-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/anasali2001"><img src="https://img.shields.io/badge/-@anasali2001-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>  
 </p>
