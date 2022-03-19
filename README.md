@@ -71,16 +71,17 @@
 </div> 
 
 <!-- Activity Graph -->
-[![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=merko)](https://github.com/anasali1671)
+[![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&&bg_color=090a07&color=b0c700&line=009c50&point=FFFFFF&hide_border=true&theme=merko)](https://github.com/anasali1671)
+
 
 <!-- Hover option 1 -->
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
 	<p align="left">
-  <a href="https://github.com/anasali1671/Machine_Learning"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Machine_Learning&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/anasali1671/Library_Management_System"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Library_Management_System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/anasali1671/Contact-Management-System"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Contact-Management-System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/anasali1671/Machine_Learning"><img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Machine_Learning&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/anasali1671/Library_Management_System"><img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Library_Management_System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/anasali1671/Contact-Management-System"><img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Contact-Management-System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="custom-icon-badges"></a>
 	</p>
 </details>
 
