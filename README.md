@@ -71,17 +71,17 @@
 </div> 
 
 <!-- Activity Graph -->
-[![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&theme=xcode)](https://github.com/anasali1671)
-
+[![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=merko)](https://github.com/anasali1671)
 
 <!-- Hover option 1 -->
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/anasali1671/Machine_Learning"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Machine_Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/anasali1671/Library_Management_System"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Library_Management_System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/anasali1671/Contact-Management-System"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Contact-Management-System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/anasali1671/Exploratory-Data-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Exploratory-Data-Analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<p align="left">
+  <a href="https://github.com/anasali1671/Machine_Learning"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Machine_Learning&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/anasali1671/Library_Management_System"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Library_Management_System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/anasali1671/Contact-Management-System"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Contact-Management-System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="custom-icon-badges"></a>
+	</p>
 </details>
 
 
@@ -133,4 +133,6 @@
 		<img alt="Thanks for visiting my GitHub profile, it's great to meet you here!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=28&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+profile,+it's+great+to+meet+you+here" ></a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+
+<!-- centre button links to top -->
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
