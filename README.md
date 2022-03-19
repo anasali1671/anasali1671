@@ -51,8 +51,6 @@ You can click the Preview link to take a look at your changes.
 [![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&theme=xcode)](https://github.com/anasali1671)
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-
-
 <p align="center">
   <a href="https://github.com/anasali1671?tab=repositories">
     <img
@@ -68,24 +66,19 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
 </p>
-
 <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p>
 
-
-
 <h2 align="left">📫 Feel Free To Contact</h2>
-<br>
 <p align="center">
-  If any queries feel free to contact at <b>(+92)-(316)-2242863</b> or email at <b>anasali1671@gmail.com</b>.
+<a href="https://linkedin.com/in/anasali1671"><img src="https://img.shields.io/badge/-@anasali1671-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/anasali1671"><img src="https://img.shields.io/badge/-@anasali1671-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:anasali1671@gmail.com"><img src="https://img.shields.io/badge/-anasali1671@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/iamanas0316"><img src="https://img.shields.io/badge/-@iamanas0316-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/anasali2001"><img src="https://img.shields.io/badge/-@anasali2001-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>  
 </p>
 
-<h2 align="left">🤝Social Profiles</h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anasali1671/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/anasali1671"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a> 
-</p>
 
 
