@@ -1,6 +1,6 @@
 <!-- Greetings -->
 <h1 align="center">
-	Hi👋,, Welcome to my profile!
+	<b>Hi👋, Welcome to my profile!</b>
 </h1>
 <br/>
 
