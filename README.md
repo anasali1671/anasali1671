@@ -87,7 +87,7 @@
 
 <!-- Hover option 2 -->
 <details>
-	<summary>💻 My GitHub Streaks Stats </summary>
+	<summary>🔥 My GitHub Streaks Stats </summary>
 	<br/>
 	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <br/>
@@ -133,4 +133,4 @@
 		<img alt="Thanks for visiting my GitHub profile, it's great to meet you here!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=28&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+profile,+it's+great+to+meet+you+here" ></a>
 </div>
 
-
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
