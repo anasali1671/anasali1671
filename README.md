@@ -131,9 +131,9 @@
 <!-- Greetings Message -->
 <div align="center">
 	<a href="https://git.io/typing-svg">
-		<img alt="Thanks for visiting my GitHub profile, it's great to meet you here!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=28&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+GitHub+profile,+it's+great+to+meet+you+here" ></a>
+		<img alt="Thanks for visiting my GitHub profile, it's great to meet you here!" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=28&center=true&vCenter=true&width=900&lines=Thanks+For+Visiting+My+GitHub+Profile,+It's+Great+To+Meet+You+Here" ></a>
 </div>
 
 
 <!-- centre button links to top -->
-<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=076e0f&style=flat&logo" alt="back to top" /></a></p>
