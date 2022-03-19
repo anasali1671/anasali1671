@@ -44,25 +44,31 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">📈 My Stats</h2>
 
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
+</div> 
+
+[![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&theme=xcode)](https://github.com/anasali1671)
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+
+
 <p align="center">
   <a href="https://github.com/anasali1671?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout=compact&theme=algolia&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout=compact&theme=merko&count_private=true"
     />
   </a>
   <a href="https://github.com/anasali1671?tab=repositories">
     <img
       align="center"
       height="140"
-      src="https://github-readme-stats.vercel.app/api?username=anasali1671&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=anasali1671&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=merko&count_private=true"
     />
   </a>
 </p>
 
-<div align="left">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
-</div> 
 <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p>
