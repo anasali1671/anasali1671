@@ -44,11 +44,29 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">📈 My Stats</h2>
 
-<a href="#"><img height="120px" src="https://github-readme-stats.vercel.app/api?username=anasali1671&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p align="center">
+  <a href="https://github.com/anasali1671?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasali1671&layout=compact&theme=algolia&count_private=true"
+    />
+  </a>
+  <a href="https://github.com/anasali1671?tab=repositories">
+    <img
+      align="center"
+      height="140"
+      src="https://github-readme-stats.vercel.app/api?username=anasali1671&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=algolia&count_private=true"
+    />
+  </a>
+</p>
 
-<div align="center">
+<div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
-</div>
+</div> 
+<p align="center" dir="auto">
+        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
+</p>
+
 
 
 <h2 align="left">📫 Feel Free To Contact</h2>
@@ -61,5 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anasali1671/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/anasali1671"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>  
+  <a href="https://www.kaggle.com/anasali1671"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a> 
 </p>
+
+
