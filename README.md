@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">📈 My Stats</h2>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
 </div> 
 
 [![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&theme=xcode)](https://github.com/anasali1671)
