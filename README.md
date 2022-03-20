@@ -79,9 +79,8 @@
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
 	<p align="left">
-  <a href="https://github.com/anasali1671/Machine-Learning"><img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Machine-Learning&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/anasali1671/Library_Management_System"><img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Library_Management_System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/anasali1671/Contact-Management-System"><img width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Contact-Management-System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/anasali1671/Machine-Learning"><img width="40%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Machine-Learning&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/anasali1671/Library_Management_System"><img width="40%" height="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=anasali1671&repo=Library_Management_System&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" alt="github-readme-streak-stats"></a>
 	</p>
 </details>
 
