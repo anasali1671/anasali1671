@@ -71,10 +71,8 @@
 </div> 
 
 <!-- Activity Graph -->
-<!-- [![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&&bg_color=090a07&color=b0c700&line=009c50&point=FFFFFF&hide_border=true&theme=merko)](https://github.com/anasali1671) -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Anas Ali Siddiqui's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anasali1671&&bg_color=090a07&color=b0c700&line=009c50&point=FFFFFF&hide_border=true&theme=merko" /></a>
-
+<img alt="Anas Ali Siddiqui's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anasali1671&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true&theme=merko" />
 
 
 
@@ -116,9 +114,18 @@
 
 
 <!-- End Wave image -->
-<p align="center" dir="auto">
+
+<!-- <p align="center" dir="auto">
         <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
 </p>
+ -->
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+
+
 
 <!-- Social links -->
 <h2 align="left">📫 Feel Free To Contact</h2>
