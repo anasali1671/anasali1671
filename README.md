@@ -71,9 +71,7 @@
 </div> 
 
 <!-- Activity Graph -->
-
-<img alt="Anas Ali Siddiqui's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anasali1671&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true&theme=merko" />
-
+<img alt="Anas Ali Siddiqui's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anasali1671&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true" />
 
 
 <!-- Hover option 1 -->
@@ -86,7 +84,6 @@
 	</p>
 </details>
 
-
 <!-- Hover option 2 -->
 <details>
 	<summary>🔥 My GitHub Streaks Stats </summary>
@@ -94,6 +91,7 @@
 	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasali1671&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
   <br/>
 </details>
+
 
 <!-- Stats -->
 <p align="center">
@@ -120,11 +118,9 @@
 </p>
  -->
 
- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-
 
 
 <!-- Social links -->
