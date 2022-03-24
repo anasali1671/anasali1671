@@ -71,7 +71,11 @@
 </div> 
 
 <!-- Activity Graph -->
-[![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&&bg_color=090a07&color=b0c700&line=009c50&point=FFFFFF&hide_border=true&theme=merko)](https://github.com/anasali1671)
+<!-- [![Anas Ali Siddiqui's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&&bg_color=090a07&color=b0c700&line=009c50&point=FFFFFF&hide_border=true&theme=merko)](https://github.com/anasali1671) -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Anas Ali Siddiqui's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anasali1671&&bg_color=090a07&color=b0c700&line=009c50&point=FFFFFF&hide_border=true&theme=merko" /></a>
+
+
 
 
 <!-- Hover option 1 -->
