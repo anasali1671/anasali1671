@@ -71,8 +71,7 @@
 </div> 
 
 <!-- Activity Graph -->
-<img alt="Anas Ali Siddiqui's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=anasali1671&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true" />
-
+[![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/shahzaneer)
 
 <!-- Hover option 1 -->
 <details>
@@ -113,11 +112,6 @@
 
 <!-- End Wave image -->
 
-<!-- <p align="center" dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;color:blue"></a>
-</p>
- -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
@@ -125,12 +119,31 @@
 
 <!-- Social links -->
 <h2 align="left">📫 Feel Free To Contact</h2>
+
 <p align="center">
-<a href="https://linkedin.com/in/anasali1671"><img src="https://img.shields.io/badge/-@anasali1671-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/anasali1671"><img src="https://img.shields.io/badge/-@anasali1671-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
-<a href="mailto:anasali1671@gmail.com"><img src="https://img.shields.io/badge/-@anasali1671@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/iamanas0316"><img src="https://img.shields.io/badge/-@iamanas0316-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/anasali2001"><img src="https://img.shields.io/badge/-@anasali2001-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>  
+<a href="https://www.instagram.com/iamanas0316/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anasali1671/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/+923162242863">
+    <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/16781261/anas-ali">
+    <img src="https://img.shields.io/badge/Stack_Overfolow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/anasali2001">
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://kaggle.com/anasali1671/">
+    <img src="https://img.shields.io/badge/kaggle-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue" />
+</a>
+</a>
+<a href="https://twitter.com/anasali1671">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 </p>
 
 
