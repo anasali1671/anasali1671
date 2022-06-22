@@ -121,6 +121,7 @@
 <h2 align="left">📫 Feel Free To Contact</h2>
 
 <p align="center">
+<a href="anasali1671@gmai.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/iamanas0316/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -130,7 +131,6 @@
 <a href="https://wa.me/+923162242863">
     <img src="https://img.shields.io/badge/Whatsapp-27e650c4?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
 <a href="https://stackoverflow.com/users/16781261/anas-ali">
     <img src="https://img.shields.io/badge/Stack_Overfolow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
@@ -144,6 +144,8 @@
 <a href="https://twitter.com/anasali1671">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+<a href="https://discord.com/channels/@anasali1671"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCSTJ0J2A067P51LABmK5dvw"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 
