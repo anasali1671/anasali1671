@@ -70,8 +70,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anasali1671.anasali1671" alt="visitors">
 </div> 
 
-<!-- Activity Graph -->
-[![Anas Ali Siddiqui's Activity Graph](https://activity-graph.herokuapp.com/graph?username=anasali1671&bg_color=090a07&color=b0c700&line=009A45&point=FFFFFF&hide_border=true)](https://github.com/shahzaneer)
+
 
 <!-- Hover option 1 -->
 <details>
