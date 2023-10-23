@@ -48,17 +48,17 @@
 <!-- Expertise Logos -->
 <h2 align="left">💻My Expertise</h2>
 <p align="center">
-<code><img height="70" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="70" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="70" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
-<code><img height="70" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="110" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
+<code><img height="110" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="110" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+<!-- <code><img height="80" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code> -->
+<!-- <code><img height="70" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code> -->
+<code><img height="110" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="110" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
+<code><img height="110" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="110" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
+<code><img height="110" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
+<!-- <code><img height="110" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> -->
 </p>
 
 
