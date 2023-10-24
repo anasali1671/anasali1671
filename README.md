@@ -58,6 +58,7 @@
 <code><img height="110" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="110" src="https://img.icons8.com/ios/50/000000/ms-excel.png"></code>
 <code><img height="110" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"></code>
+<code><img height="110" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 <!-- <code><img height="110" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> -->
 </p>
 
